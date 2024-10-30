@@ -13,8 +13,8 @@ export default {
 <style scoped>
 .logo {
   position: absolute;
-  top: 0;
-  left: 0;
+  top: -3px;
+  left: 20px;
   padding: 10px;
 }
 
