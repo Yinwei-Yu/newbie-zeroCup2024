@@ -1,13 +1,13 @@
-<!-- 主界面的 定义 板块 -->
 <script>
 export default {
-  name: 'Definition'
+  name: 'Harm'
 }
 </script>
 
+
 <template>
   <div class="container">
-    <h1 class="title">定义</h1>
+    <h1 class="title">危害</h1>
   </div>
 
 </template>
@@ -16,7 +16,7 @@ export default {
 .container {
   background-color: #f4dada;
   padding:200px;
-  margin:85px 20px 20px;
+  margin:20px;
 }
 .title {
     position: relative;

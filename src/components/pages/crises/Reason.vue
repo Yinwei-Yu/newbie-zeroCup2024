@@ -1,13 +1,13 @@
-<!-- 主界面的 定义 板块 -->
 <script>
 export default {
-  name: 'Definition'
+  name: 'Reason'
 }
 </script>
 
+
 <template>
   <div class="container">
-    <h1 class="title">定义</h1>
+    <h1 class="title">成因</h1>
   </div>
 
 </template>
@@ -16,11 +16,11 @@ export default {
 .container {
   background-color: #f4dada;
   padding:200px;
-  margin:85px 20px 20px;
+  margin:20px;
 }
 .title {
     position: relative;
     top: -210px;
-     left: -200px;
+    left: -200px;
 }
 </style>

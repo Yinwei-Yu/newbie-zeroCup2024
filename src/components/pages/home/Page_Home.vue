@@ -11,10 +11,7 @@ export default {
 </script>
 
 <template>
-    <div> <HeadLine /></div>
-    <div>
     <Definition />
     <Importance />
     <AboutUs />
-    </div>
 </template>

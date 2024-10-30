@@ -6,16 +6,21 @@ export default {
 
 
 <template>
-  <div>
-    <h1 class="title">Importance</h1>
+  <div class="container">
+    <h1 class="title">重要性</h1>
   </div>
 
 </template>
 
 <style scoped>
-.title {
+.container {
   background-color: #f4dada;
   padding:200px;
   margin:20px;
+}
+.title {
+    position: relative;
+    top: -210px;
+     left: -200px;
 }
 </style>
