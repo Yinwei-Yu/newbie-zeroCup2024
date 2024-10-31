@@ -4,10 +4,13 @@ export default {
 }
 </script>
 
-
+<script setup>
+import CardStack from './CardStack.vue';
+</script>
 <template>
   <div class="container">
     <h1 class="title">重要性</h1>
+    <CardStack></CardStack>
   </div>
 
 </template>
